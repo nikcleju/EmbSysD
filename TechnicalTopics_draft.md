@@ -1,7 +1,7 @@
 # Embedded System Design - Technical Topics
 
 - Based on the two references:
-   - Introduction to Embedded Systems - A Cyber-Physical Systems Approach, Second Edition, E. A. Lee and S. A. Seshia, MIT Press, 2017
+   - Introduction to Embedded Systems - A Cyber-Physical Systems Approach, Second Edition, E. A. Lee and S. A. Seshia, MIT Press, 2017, freely available ![here](http://leeseshia.org/)
    - Embedded System Design - Embedded Systems Foundations of Cyber-Physical Systems, 2nd Edition, Peter Marwedel, Springer, 2011  
       - Lecture slides available at http://ls12-www.cs.tu-dortmund.de/daes/daes/mitarbeiter/prof-dr-peter-marwedel/embedded-system-text-book/slides/slides-2013.html
       - Videos on youtube: https://www.youtube.com/user/cyphysystems/
