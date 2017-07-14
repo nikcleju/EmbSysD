@@ -13,11 +13,24 @@
 ## Lecture 3: Design processes overview
 - V-Cycle, Waterfall, Agile etc.
 
-## Lecture 4: Model-Based Design
-- to fill
+## Lecture 4: Introduction to Model-Based Design, Simulation and Analysis
+- Models as system diagrams
+- Model management
+- Requirements traceability
+- Modeling standards
+- Physical components modeling approaches
+- Algorithm modeling approaches
+- Model verification
 
-## Lecture 5: Model-Based Design
-- to fill
+
+## Lecture 5: MBD Implementation. Transitioning to MBD
+- Model discretisation
+- Code generation from Simulink models
+- Integration with external code
+- Differences between traditional design and Model-Based Design
+- Implementing a Model-Based Design strategy
+- Best practices for Model-Based Design
+
 
 ## Lecture 6: Finite state machines
 - System modeling with finite state machines: states, conditions, actions, state actions, hierarchy/super-states, default state / history, time, parallel states, actions
